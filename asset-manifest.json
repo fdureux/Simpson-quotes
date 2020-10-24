@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simpson-quotes/static/css/main.9b5f8ae9.chunk.css",
+    "main.js": "/simpson-quotes/static/js/main.aee69b5d.chunk.js",
+    "main.js.map": "/simpson-quotes/static/js/main.aee69b5d.chunk.js.map",
+    "runtime-main.js": "/simpson-quotes/static/js/runtime-main.912994d1.js",
+    "runtime-main.js.map": "/simpson-quotes/static/js/runtime-main.912994d1.js.map",
+    "static/js/2.a4ee69ab.chunk.js": "/simpson-quotes/static/js/2.a4ee69ab.chunk.js",
+    "static/js/2.a4ee69ab.chunk.js.map": "/simpson-quotes/static/js/2.a4ee69ab.chunk.js.map",
+    "index.html": "/simpson-quotes/index.html",
+    "precache-manifest.e05e87e7eae186b20aa7474401aa60c2.js": "/simpson-quotes/precache-manifest.e05e87e7eae186b20aa7474401aa60c2.js",
+    "service-worker.js": "/simpson-quotes/service-worker.js",
+    "static/css/main.9b5f8ae9.chunk.css.map": "/simpson-quotes/static/css/main.9b5f8ae9.chunk.css.map",
+    "static/js/2.a4ee69ab.chunk.js.LICENSE.txt": "/simpson-quotes/static/js/2.a4ee69ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912994d1.js",
+    "static/js/2.a4ee69ab.chunk.js",
+    "static/css/main.9b5f8ae9.chunk.css",
+    "static/js/main.aee69b5d.chunk.js"
+  ]
+}
